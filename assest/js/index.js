@@ -7,7 +7,7 @@ const productDOM = document.querySelector(".games-center");
 const cartItems = document.querySelector(".cart-items");
 const cartTotal = document.querySelector(".price");
 const cartContent = document.querySelector(".cart-content");
-import { productData } from "assest/js/product.js";
+import { productData } from "product.js";
 
 let cart = [];
 let buttonDOM = [];
