@@ -1972,10 +1972,6 @@ video {
   border-bottom-width: 1px;
 }
 
-.border-b-2 {
-  border-bottom-width: 2px;
-}
-
 .border-e {
   border-inline-end-width: 1px;
 }
@@ -2039,21 +2035,6 @@ video {
   border-color: rgb(156 163 175 / var(--tw-border-opacity));
 }
 
-.border-indigo-500 {
-  --tw-border-opacity: 1;
-  border-color: rgb(99 102 241 / var(--tw-border-opacity));
-}
-
-.border-pink-500 {
-  --tw-border-opacity: 1;
-  border-color: rgb(236 72 153 / var(--tw-border-opacity));
-}
-
-.border-pink-700 {
-  --tw-border-opacity: 1;
-  border-color: rgb(190 24 93 / var(--tw-border-opacity));
-}
-
 .bg-\[\#2948C5\] {
   --tw-bg-opacity: 1;
   background-color: rgb(41 72 197 / var(--tw-bg-opacity));
@@ -2092,21 +2073,6 @@ video {
 .bg-gray-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
-}
-
-.bg-indigo-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(199 210 254 / var(--tw-bg-opacity));
-}
-
-.bg-pink-400 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(244 114 182 / var(--tw-bg-opacity));
-}
-
-.bg-red-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -2252,10 +2218,6 @@ video {
   padding: 1rem;
 }
 
-.p-\[4px\] {
-  padding: 4px;
-}
-
 .px-0 {
   padding-left: 0px;
   padding-right: 0px;
@@ -2300,10 +2262,6 @@ video {
   padding-bottom: 0.5rem;
 }
 
-.pb-4 {
-  padding-bottom: 1rem;
-}
-
 .pl-10 {
   padding-left: 2.5rem;
 }
@@ -2312,8 +2270,8 @@ video {
   padding-left: 0.5rem;
 }
 
-.pl-32 {
-  padding-left: 8rem;
+.pr-2 {
+  padding-right: 0.5rem;
 }
 
 .pt-4 {
@@ -2322,10 +2280,6 @@ video {
 
 .pt-\[0\.65rem\] {
   padding-top: 0.65rem;
-}
-
-.pr-2 {
-  padding-right: 0.5rem;
 }
 
 .text-left {
@@ -2382,10 +2336,6 @@ video {
 
 .align-super {
   vertical-align: super;
-}
-
-.font-serif {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
 .text-2xl {
@@ -2560,11 +2510,6 @@ video {
 .text-indigo-700 {
   --tw-text-opacity: 1;
   color: rgb(67 56 202 / var(--tw-text-opacity));
-}
-
-.text-pink-700 {
-  --tw-text-opacity: 1;
-  color: rgb(190 24 93 / var(--tw-text-opacity));
 }
 
 .text-red-700 {
@@ -2798,11 +2743,6 @@ video {
 
 .shadow-\[\#506bda\] {
   --tw-shadow-color: #506bda;
-  --tw-shadow: var(--tw-shadow-colored);
-}
-
-.shadow-indigo-300 {
-  --tw-shadow-color: #a5b4fc;
   --tw-shadow: var(--tw-shadow-colored);
 }
 
