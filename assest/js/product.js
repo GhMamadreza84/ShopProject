@@ -3,7 +3,7 @@ export const productData = [
     id: 1,
     title: "Rainbow Six Saige ",
     price: 300000,
-    imageUrl: "../images/R6.jpg",
+    imageUrl: "images/R6.jpg",
   },
   {
     id: 2,
