@@ -26,7 +26,7 @@ class UI {
       result += `
       <div class="text-center m-9 shadow-2xl  w-[250px] h-auto flex flex-col justify-around rounded-b-xl rounded-t-xl -skew-y-6 hover:-skew-y-0  hover:-translate-y-6 duration-500 cursor-pointer">
         <div>
-          <img src=${item.imageUrl} alt="" class=" rounded-t-xl w-full h-full" />
+          <img src="../assest/images/R6.jpg" alt="" class=" rounded-t-xl w-full h-full" />
         </div>
         <div class="flex flex-col justify-between m-4">
           <a href="" class="text-[#313131]  dark:hover:text-[#2948C5] hover:text-[#2948C5] dark:text-white transition-all">${item.title}</a>
